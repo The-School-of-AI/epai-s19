@@ -1,5 +1,4 @@
-# Smart Device Controller 🎮
-
+# Smart Device Controller 🎮 [![Python Tests](https://github.com/The-School-of-AI/epai-s19/actions/workflows/python-app-1.yml/badge.svg)](https://github.com/The-School-of-AI/epai-s19/actions/workflows/python-app-1.yml)
 A Python implementation of a smart device controller created as part of the EPAI (Extensive Python AI) course. This project demonstrates advanced Python concepts including class attributes, callable classes, and function attributes.
 
 ## 🌟 Features
